@@ -10,4 +10,4 @@ En Windows:
 * Haz un pull request.
 * ¡Ya estás listo!
 
-Eso es todo en el archivo CONTRIBUTING.md, probablemente pondré instrucciones de MacOS
+Eso es todo en el archivo CONTRIBUTING.md.

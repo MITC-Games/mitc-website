@@ -1,0 +1,1 @@
+(11/8/21): Acceso directo al foro añadido y nueva portada de REVO hecha.  
