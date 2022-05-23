@@ -1,3 +1,5 @@
+# Este proyecto ya no se volverá a mantener.  
+  
 # La página web de MITC Games.  
 La última versión revisada de la web es el día 11 de noviembre de 2021.  
 La URL de la web es [mitcgames.ml](https://mitcgames.ml).  
